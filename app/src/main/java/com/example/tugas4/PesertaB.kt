@@ -60,11 +60,11 @@ class PesertaB : Fragment() {
 
         detailList = ArrayList()
 
-        detailList.add(Detail("Klasik","fefesf","teknik informatika","4","https://media.licdn.com/dms/image/D5603AQH8T5ratqKmgg/profile-displayphoto-shrink_800_800/0/1680367893780?e=1694649600&v=beta&t=mUtVJLOMDcV0QDgXrZE96LmX7wneAYQs83ViW2F8_VE"))
-        detailList.add(Detail("Pentaho","fefethfsf","teknik informatika","7","https://images.ctfassets.net/kkvmdunnrywi/2VrHtCTnpPXS1xByCl8Gme/ca3c0cd5bde9923a40714addfa76756f/pentaho.png?w=1280&h=853&q=50&fit=fill"))
-        detailList.add(Detail("Tableu","fetfhfesf","teknik informatika","9","https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo.png?h=c673cd1c&itok=aomysVvE"))
-        detailList.add(Detail("Phyton","fefesthff","teknik informatika","4","https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png"))
-        detailList.add(Detail("Java","feww3twtfesf","teknik informatika","5","https://www.theindianwire.com/wp-content/uploads/2018/06/java-logo.png"))
+        detailList.add(Detail("Ruby","fefesf","teknik informatika","4","https://logos-download.com/wp-content/uploads/2016/09/Ruby_logo-700x700.png"))
+        detailList.add(Detail("C","fefethfsf","teknik informatika","7","https://clipground.com/images/c-icon-clipart-4.png"))
+        detailList.add(Detail("Raptor","fetfhfesf","teknik informatika","9","https://4.bp.blogspot.com/-7Alc0RKZTWA/Wql1kVRUO-I/AAAAAAAAAV4/UlZCu1pJKskpT-GOie2i99ZA4zuTCM9OACLcBGAs/s1600/raptor.gif"))
+        detailList.add(Detail("Android","fefesthff","teknik informatika","4","https://www.hdwallpaperspulse.com/wp-content/uploads/2016/08/08/boot-android-logo-image.jpg"))
+        detailList.add(Detail("Apple","feww3twtfesf","teknik informatika","5","https://purepng.com/public/uploads/large/purepng.com-apple-logologobrand-logoiconslogos-251519938788qhgdl.png"))
 
     }
 
